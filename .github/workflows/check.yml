@@ -1,0 +1,29 @@
+name: Atlas checks
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+jobs:
+  validate:
+    name: Validate atlas
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - run: python -m unittest discover -s tests -v
+      - run: python scripts/atlas.py --output dist/cell-signaling-atlas.html
+      - run: node --check web/app.js
+      - uses: actions/upload-artifact@v4
+        with:
+          name: cell-signaling-atlas
+          path: dist/cell-signaling-atlas.html
+          if-no-files-found: error
+          retention-days: 30

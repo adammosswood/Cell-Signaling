@@ -1,0 +1,76 @@
+name: Update atlas from literature
+on:
+  workflow_dispatch:
+    inputs:
+      publish:
+        description: Enable agent review and publication for this run
+        type: boolean
+        default: false
+  schedule:
+    - cron: '17 10 * * *'
+
+permissions:
+  contents: read
+
+concurrency:
+  group: atlas-literature-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    # This is a fail-closed activation gate. Set the variable to true after acceptance.
+    if: github.ref == 'refs/heads/main' && vars.ATLAS_ENABLED == 'true'
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Mint scoped publisher token
+        id: publisher
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.ATLAS_PUBLISHER_APP_ID }}
+          private-key: ${{ secrets.ATLAS_PUBLISHER_PRIVATE_KEY }}
+          permission-contents: write
+          permission-pull-requests: write
+      - name: Load queue and checkpoint
+        env:
+          GH_TOKEN: ${{ steps.publisher.outputs.token }}
+        run: |
+          gh auth setup-git
+          git config user.name 'Cell Signaling Atlas'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          python scripts/pipeline.py fetch
+      - name: Discover publications and notices
+        env:
+          CROSSREF_MAILTO: ${{ vars.ATLAS_CROSSREF_MAILTO }}
+        run: python scripts/pipeline.py discover
+      - name: Save discovery checkpoint and candidates
+        env:
+          GH_TOKEN: ${{ steps.publisher.outputs.token }}
+        run: python scripts/pipeline.py store
+      - name: Curate and independently review one candidate
+        if: github.event_name == 'schedule' || inputs.publish
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          ATLAS_RUN_LIMIT_USD: ${{ vars.ATLAS_RUN_LIMIT_USD }}
+          ATLAS_INPUT_USD_PER_MTOK: ${{ vars.ATLAS_INPUT_USD_PER_MTOK }}
+          ATLAS_OUTPUT_USD_PER_MTOK: ${{ vars.ATLAS_OUTPUT_USD_PER_MTOK }}
+          CROSSREF_MAILTO: ${{ vars.ATLAS_CROSSREF_MAILTO }}
+        run: python scripts/pipeline.py curate
+      - name: Save reviewed stage
+        if: github.event_name == 'schedule' || inputs.publish
+        env:
+          GH_TOKEN: ${{ steps.publisher.outputs.token }}
+        run: python scripts/pipeline.py store
+      - name: Publish the reviewed revision
+        if: github.event_name == 'schedule' || inputs.publish
+        env:
+          GH_TOKEN: ${{ steps.publisher.outputs.token }}
+        run: |
+          python scripts/pipeline.py publish
+          python scripts/pipeline.py store

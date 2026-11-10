@@ -1,0 +1,1690 @@
+{
+  "papers": [
+    {
+      "id": "pmid-32946782",
+      "title": "Structure of a Hallucinogen-Activated Gq-Coupled 5-HT2A Serotonin Receptor",
+      "year": 2020,
+      "doi": "10.1016/j.cell.2020.08.024",
+      "pmid": "32946782",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7593816/",
+      "status": "published"
+    },
+    {
+      "id": "trupath-2020",
+      "title": "TRUPATH, an open-source biosensor platform for interrogating the GPCR transducerome",
+      "year": 2020,
+      "doi": "10.1038/s41589-020-0535-8",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s41589-020-0535-8",
+      "status": "published"
+    },
+    {
+      "id": "pmid-40108183",
+      "title": "The structural diversity of psychedelic drug actions revealed",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-57956-7",
+      "pmid": "40108183",
+      "url": "https://doi.org/10.1038/s41467-025-57956-7",
+      "status": "published"
+    },
+    {
+      "id": "pmid-41606342",
+      "title": "Psychedelics elicit their effects by 5-HT2A receptor-mediated Gi signalling",
+      "year": 2026,
+      "doi": "10.1038/s41586-025-10061-7",
+      "pmid": "41606342",
+      "url": "https://doi.org/10.1038/s41586-025-10061-7",
+      "status": "corrected"
+    },
+    {
+      "id": "pmid-20966218",
+      "title": "Kinetic scaffolding mediated by a phospholipase C-beta and Gq signaling complex",
+      "year": 2010,
+      "doi": "10.1126/science.1193438",
+      "pmid": "20966218",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC3046049/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-18096806",
+      "title": "Structure of Galphaq-p63RhoGEF-RhoA complex reveals a pathway for the activation of RhoA by GPCRs",
+      "year": 2007,
+      "doi": "",
+      "pmid": "18096806",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/18096806/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-26435194",
+      "title": "Plasma membrane restricted RhoGEF activity is sufficient for RhoA-mediated actin polymerization",
+      "year": 2015,
+      "doi": "10.1038/srep14693",
+      "pmid": "26435194",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4592971/",
+      "status": "published"
+    },
+    {
+      "id": "pertz-2006",
+      "title": "Spatiotemporal dynamics of RhoA activity in migrating cells",
+      "year": 2006,
+      "doi": "10.1038/nature04665",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/nature04665",
+      "status": "published"
+    },
+    {
+      "id": "rock-1996",
+      "title": "The small GTP-binding protein Rho binds to and activates a 160 kDa Ser/Thr protein kinase homologous to myotonic dystrophy kinase",
+      "year": 1996,
+      "doi": "10.1002/j.1460-2075.1996.tb00539.x",
+      "pmid": "",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC450107/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-12670425",
+      "title": "PIP(2) activates KCNQ channels, and its hydrolysis underlies receptor-mediated inhibition of M currents",
+      "year": 2003,
+      "doi": "",
+      "pmid": "12670425",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/12670425/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-20100891",
+      "title": "Kinetics of PIP2 metabolism and KCNQ2/3 channel regulation studied with a voltage-sensitive phosphatase in living cells",
+      "year": 2010,
+      "doi": "10.1085/jgp.200910345",
+      "pmid": "20100891",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC2812502/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-31855412",
+      "title": "Fluorescent Biosensors for Multiplexed Imaging of Phosphoinositide Dynamics",
+      "year": 2020,
+      "doi": "",
+      "pmid": "31855412",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31855412/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-16754959",
+      "title": "Cytosolic inositol 1,4,5-trisphosphate dynamics during intracellular calcium oscillations in living cells",
+      "year": 2006,
+      "doi": "10.1083/jcb.200512141",
+      "pmid": "16754959",
+      "url": "https://doi.org/10.1083/jcb.200512141",
+      "status": "published"
+    },
+    {
+      "id": "pmid-9154905",
+      "title": "Single-channel kinetics, inactivation, and spatial distribution of inositol trisphosphate (IP3) receptors in Xenopus oocyte nucleus",
+      "year": 1997,
+      "doi": "",
+      "pmid": "9154905",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/9154905/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-6605482",
+      "title": "Release of Ca2+ from a nonmitochondrial intracellular store in pancreatic acinar cells by inositol-1,4,5-trisphosphate",
+      "year": 1983,
+      "doi": "10.1038/306067a0",
+      "pmid": "6605482",
+      "url": "https://doi.org/10.1038/306067a0",
+      "status": "published"
+    },
+    {
+      "id": "pmid-36922596",
+      "title": "Fast and sensitive GCaMP calcium indicators for imaging neural populations",
+      "year": 2023,
+      "doi": "10.1038/s41586-023-05828-9",
+      "pmid": "36922596",
+      "url": "https://doi.org/10.1038/s41586-023-05828-9",
+      "status": "published"
+    },
+    {
+      "id": "pmid-7358670",
+      "title": "Activation of calcium and phospholipid-dependent protein kinase by diacylglycerol, its possible relation to phosphatidylinositol turnover",
+      "year": 1980,
+      "doi": "",
+      "pmid": "7358670",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/7358670/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-39394268",
+      "title": "Sensitive fluorescent biosensor reveals differential subcellular regulation of PKC",
+      "year": 2024,
+      "doi": "10.1038/s41589-024-01758-3",
+      "pmid": "39394268",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12392915/",
+      "status": "published"
+    },
+    {
+      "id": "ckar3-2025",
+      "title": "A high-performance genetically encoded sensor for cellular imaging of PKC activity in vivo",
+      "year": 2025,
+      "doi": "10.1038/s41467-025-61729-7",
+      "pmid": "",
+      "url": "https://doi.org/10.1038/s41467-025-61729-7",
+      "status": "published"
+    },
+    {
+      "id": "pmid-12367511",
+      "title": "Mechanism of TrkB-mediated hippocampal long-term potentiation",
+      "year": 2002,
+      "doi": "10.1016/s0896-6273(02)00942-x",
+      "pmid": "12367511",
+      "url": "https://doi.org/10.1016/s0896-6273(02)00942-x",
+      "status": "published"
+    },
+    {
+      "id": "pmid-34985962",
+      "title": "Calcineurin and huntingtin form a calcium-sensing machinery that directs neurotrophic signals to the nucleus",
+      "year": 2022,
+      "doi": "",
+      "pmid": "34985962",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC8730605/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-31889510",
+      "title": "Structural basis for the activation of PLC-γ isozymes by phosphorylation and cancer-associated mutations",
+      "year": 2019,
+      "doi": "",
+      "pmid": "31889510",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/31889510/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-19359495",
+      "title": "Induction of corticospinal regeneration by lentiviral trkB-induced Erk activation",
+      "year": 2009,
+      "doi": "",
+      "pmid": "19359495",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/19359495/",
+      "status": "published"
+    },
+    {
+      "id": "pmid-19033456",
+      "title": "A genetically encoded fluorescent sensor of ERK activity",
+      "year": 2008,
+      "doi": "10.1073/pnas.0804598105",
+      "pmid": "19033456",
+      "url": "https://doi.org/10.1073/pnas.0804598105",
+      "status": "published"
+    },
+    {
+      "id": "pmid-41703299",
+      "title": "Publisher Correction: Psychedelics elicit their effects by 5-HT2A receptor-mediated Gi signalling",
+      "year": 2026,
+      "doi": "10.1038/s41586-026-10249-5",
+      "pmid": "41703299",
+      "url": "https://www.nature.com/articles/s41586-026-10249-5.pdf",
+      "status": "notice"
+    },
+    {
+      "id": "pmid-26481038",
+      "title": "A Peptide Uncoupling BDNF Receptor TrkB from Phospholipase Cγ1 Prevents Epilepsy Induced by Status Epilepticus",
+      "year": 2015,
+      "doi": "",
+      "pmid": "26481038",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4636438/",
+      "status": "published"
+    }
+  ],
+  "nodes": [
+    {
+      "id": "htr2a",
+      "label": "5-HT2A receptor",
+      "kind": "receptor",
+      "compartment": "plasma membrane",
+      "summary": "Human serotonin receptor HTR2A. Transducer coupling depends on the ligand, assay, and cell system."
+    },
+    {
+      "id": "gq",
+      "label": "Gαq-GTP",
+      "kind": "hub",
+      "compartment": "plasma membrane",
+      "summary": "Active Gαq. PLCβ and p63RhoGEF represent separate effector branches."
+    },
+    {
+      "id": "gi",
+      "label": "Gαi activation",
+      "kind": "hub",
+      "compartment": "plasma membrane",
+      "summary": "Additional ligand- and assay-dependent coupling entry point shown for 5-HT2A."
+    },
+    {
+      "id": "plc-beta",
+      "label": "PLCβ activity",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "Activated PLCβ cleaves membrane PIP₂. The direct effector experiment here used PLCβ3."
+    },
+    {
+      "id": "pip2",
+      "label": "Membrane PIP₂",
+      "kind": "messenger",
+      "compartment": "plasma membrane",
+      "summary": "PtdIns(4,5)P₂ available to enzymes and lipid-dependent membrane effectors."
+    },
+    {
+      "id": "ip3",
+      "label": "IP₃",
+      "kind": "messenger",
+      "compartment": "cytosol",
+      "summary": "Soluble inositol 1,4,5-trisphosphate produced when phosphoinositide-specific PLC cleaves PIP₂."
+    },
+    {
+      "id": "ip3r",
+      "label": "IP₃ receptor opening",
+      "kind": "junction",
+      "compartment": "ER membrane",
+      "summary": "IP₃-sensitive intracellular Ca²⁺ channel. Ca²⁺ and ATP can shape gating."
+    },
+    {
+      "id": "calcium",
+      "label": "Cytosolic Ca²⁺",
+      "kind": "messenger",
+      "compartment": "cytosol",
+      "summary": "Free Ca²⁺ rises during store release or influx. Compartment-targeted reporters can localize changes."
+    },
+    {
+      "id": "dag",
+      "label": "DAG",
+      "kind": "messenger",
+      "compartment": "plasma membrane",
+      "summary": "Membrane diacylglycerol generated by PIP₂ hydrolysis or alternative lipid pathways."
+    },
+    {
+      "id": "pkc",
+      "label": "PKC activity",
+      "kind": "endpoint",
+      "compartment": "plasma membrane",
+      "summary": "DAG-sensitive PKCs phosphorylate substrates. Conventional and novel isoforms differ in calcium dependence."
+    },
+    {
+      "id": "kcnq",
+      "label": "Kv7.2/7.3 M current",
+      "kind": "endpoint",
+      "compartment": "plasma membrane",
+      "summary": "PIP₂-supported KCNQ2/3 current can regulate neuronal excitability."
+    },
+    {
+      "id": "p63rhogef",
+      "label": "p63RhoGEF / ARHGEF25",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "Gαq-regulated guanine nucleotide exchange factor for RhoA."
+    },
+    {
+      "id": "rhoa",
+      "label": "RhoA-GTP",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "GTP-loaded RhoA engages effectors that control actin and contractility."
+    },
+    {
+      "id": "rock",
+      "label": "ROCK activity",
+      "kind": "endpoint",
+      "compartment": "cytosol",
+      "summary": "Rho-associated kinase can respond to active RhoA and act on cytoskeletal substrates."
+    },
+    {
+      "id": "ntrk2",
+      "label": "Full-length TrkB receptor",
+      "kind": "receptor",
+      "compartment": "plasma membrane",
+      "summary": "BDNF-responsive kinase-active NTRK2 receptor. Docking-site numbering follows the cited rodent studies."
+    },
+    {
+      "id": "trkb-y816",
+      "label": "TrkB pY816 docking site",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "Phosphorylated C-terminal site supporting PLCγ signaling."
+    },
+    {
+      "id": "plc-gamma",
+      "label": "PLCγ1 activity",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "PLCγ1 couples phosphorylated RTKs to phosphoinositide hydrolysis. Recruitment and catalytic activity can be measured separately."
+    },
+    {
+      "id": "trkb-y515",
+      "label": "TrkB pY515 docking site",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "Juxtamembrane phosphotyrosine site that supports Shc and FRS2 signaling."
+    },
+    {
+      "id": "shc",
+      "label": "Shc/FRS2 signaling module",
+      "kind": "junction",
+      "compartment": "plasma membrane",
+      "summary": "Adaptor signaling downstream of the TrkB Y515 site. This node groups two adaptor families, which docking-site mutation alone cannot separate."
+    },
+    {
+      "id": "erk",
+      "label": "ERK1/2 activity",
+      "kind": "endpoint",
+      "compartment": "cytosol",
+      "summary": "Kinase activity may be measured separately from ERK phosphorylation or subcellular localization."
+    },
+    {
+      "id": "creb",
+      "label": "CREB phosphorylation",
+      "kind": "endpoint",
+      "compartment": "nucleus",
+      "summary": "Activity-associated CREB phosphorylation can be downstream of TrkB signaling and multiple kinase routes."
+    }
+  ],
+  "edges": [
+    {
+      "id": "htr2a-gq",
+      "source": "htr2a",
+      "target": "gq",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "5-HT2A can engage Gq. The structural experiment used 25CN-NBOH and engineered mini-Gq, and live-cell responses vary across ligands.",
+      "evidence": [
+        {
+          "paper": "pmid-32946782",
+          "locator": "Fig. 1 and active complex methods",
+          "context": "Purified human 5-HT2A and engineered mini-Gq heterotrimer",
+          "perturbation": "25CN-NBOH",
+          "readout": "Cryo-EM of receptor–transducer complex",
+          "finding": "Resolved an agonist-bound complex with a mini-Gq heterotrimer."
+        },
+        {
+          "paper": "pmid-40108183",
+          "locator": "Fig. 5 and Supplementary Fig. 13",
+          "context": "Heterologous 5-HT2A and tagged G protein assay",
+          "perturbation": "Psychedelic ligands and 25CN-NBOH",
+          "readout": "Gαq heterotrimer BRET rearrangement assay",
+          "finding": "Ligands produced distinct time- and concentration-dependent Gαq assay responses."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "htr2a-gi",
+      "source": "htr2a",
+      "target": "gi",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Some agonists engaged Gi in the cited pharmacological systems. Receptor coupling and phenotype claims have different evidence.",
+      "evidence": [
+        {
+          "paper": "pmid-41606342",
+          "locator": "Main Results, pharmacological investigation of biased G protein activation",
+          "context": "Human 5-HT2A studied with engineered G protein assays",
+          "perturbation": "Tested hallucinogenic and nonhallucinogenic agonists",
+          "readout": "Comparative Gq and Gi pathway readouts",
+          "finding": "Some ligands engaged Gi in the tested setting and coupling depended on ligand."
+        },
+        {
+          "paper": "pmid-41703299",
+          "locator": "Publisher correction, p. 1",
+          "context": "Correction to the cited 2026 Nature paper",
+          "perturbation": "Publisher revised text and figure labels",
+          "readout": "Comparison of correction notice with the coupling claim",
+          "finding": "The notice corrects terminology, molecular diagrams and labels. The pilot uses the corrected paper and keeps the ligand-dependent coupling claim within its reported assay context."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "gq-plc-beta",
+      "source": "gq",
+      "target": "plc-beta",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Active Gαq binds and activates PLCβ3 in a reconstituted receptor–G protein–effector system.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "plc-beta-pip2",
+      "source": "plc-beta",
+      "target": "pip2",
+      "effect": "depletion",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "PLCβ consumes membrane PIP₂ during hydrolysis. The magnitude and recovery depend on lipid resynthesis.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        },
+        {
+          "paper": "pmid-20100891",
+          "locator": "Results, kinetics of PIP₂ depletion and M-current suppression",
+          "context": "Cells expressing KCNQ2/3, a PIP₂ probe and a voltage-sensitive phosphatase",
+          "perturbation": "Voltage-dependent phosphatase activation or muscarinic stimulation",
+          "readout": "Membrane lipid reporter and patch-clamp M current",
+          "finding": "Selective lipid depletion lowered M current and the recovery followed PIP₂ resynthesis."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "plc-beta-ip3",
+      "source": "plc-beta",
+      "target": "ip3",
+      "effect": "production",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "PLCβ hydrolyzes PIP₂ to form IP₃ and DAG.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        },
+        {
+          "paper": "pmid-16754959",
+          "locator": "Figs. 1–4",
+          "context": "Cytosolic FRET imaging in HeLa cells",
+          "perturbation": "Histamine stimulation and IP₃ calibration",
+          "readout": "IRIS-1 ratio and co-measured cytosolic Ca²⁺",
+          "finding": "Histamine increased cytosolic IP₃ before the first calcium rise in the tested cells."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "plc-beta-dag",
+      "source": "plc-beta",
+      "target": "dag",
+      "effect": "production",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "PLCβ hydrolysis retains the DAG product in membranes.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        },
+        {
+          "paper": "pmid-39394268",
+          "locator": "Results, lysosomal DAG experiments and DAG biosensor methods",
+          "context": "Live cultured cells with membrane-targeted DAG FRET reporters",
+          "perturbation": "Receptor stimulation",
+          "readout": "DAG-sensitive Digda-derived FRET",
+          "finding": "The probe resolved stimulus-associated DAG dynamics at the membranes assayed."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "pip2-kcnq",
+      "source": "pip2",
+      "target": "kcnq",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "PIP₂ supports KCNQ2/3 current. Upstream PIP₂ depletion can therefore suppress the current.",
+      "evidence": [
+        {
+          "paper": "pmid-12670425",
+          "locator": "Results, effects of PIP₂ addition and hydrolysis on channel activity",
+          "context": "Native M channels and recombinant KCNQ channels",
+          "perturbation": "Lipid addition or receptor-driven lipid hydrolysis",
+          "readout": "Patch-clamp potassium current",
+          "finding": "PIP₂ supported channel activity and receptor-driven depletion reduced current."
+        },
+        {
+          "paper": "pmid-20100891",
+          "locator": "Results, kinetics of PIP₂ depletion and M-current suppression",
+          "context": "Cells expressing KCNQ2/3, a PIP₂ probe and a voltage-sensitive phosphatase",
+          "perturbation": "Voltage-dependent phosphatase activation or muscarinic stimulation",
+          "readout": "Membrane lipid reporter and patch-clamp M current",
+          "finding": "Selective lipid depletion lowered M current and the recovery followed PIP₂ resynthesis."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "ip3-ip3r",
+      "source": "ip3",
+      "target": "ip3r",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "IP₃ can increase opening of the IP₃-sensitive intracellular release channel.",
+      "evidence": [
+        {
+          "paper": "pmid-9154905",
+          "locator": "Results, single-channel IP₃ sensitivity and kinetics",
+          "context": "Isolated Xenopus oocyte nuclei, outer nuclear membrane",
+          "perturbation": "Varying cytoplasmic IP₃ conditions",
+          "readout": "Single-channel patch-clamp current",
+          "finding": "IP₃-sensitive channels opened in the native nuclear envelope preparation."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "ip3r-calcium",
+      "source": "ip3r",
+      "target": "calcium",
+      "effect": "production",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Opening intracellular IP₃-sensitive channels transfers Ca²⁺ from intracellular stores to the cytosol.",
+      "evidence": [
+        {
+          "paper": "pmid-9154905",
+          "locator": "Results, single-channel IP₃ sensitivity and kinetics",
+          "context": "Isolated Xenopus oocyte nuclei, outer nuclear membrane",
+          "perturbation": "Varying cytoplasmic IP₃ conditions",
+          "readout": "Single-channel patch-clamp current",
+          "finding": "IP₃-sensitive channels opened in the native nuclear envelope preparation."
+        },
+        {
+          "paper": "pmid-6605482",
+          "locator": "Results, permeabilized acinar-cell Ca²⁺ release",
+          "context": "Permeabilized pancreatic acinar cells",
+          "perturbation": "Exogenous IP₃",
+          "readout": "Calcium release from intracellular stores",
+          "finding": "IP₃ mobilized calcium from a nonmitochondrial store."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "dag-pkc",
+      "source": "dag",
+      "target": "pkc",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "DAG supports activation of conventional and novel PKCs in permissive membrane contexts.",
+      "evidence": [
+        {
+          "paper": "pmid-7358670",
+          "locator": "Results, phospholipid- and calcium-dependent kinase assay",
+          "context": "Reconstituted lipid-dependent protein kinase preparation",
+          "perturbation": "Diacylglycerol, phospholipid and calcium manipulations",
+          "readout": "Phosphate incorporation into protein substrate",
+          "finding": "DAG enhanced lipid-dependent kinase activity under the assay conditions."
+        },
+        {
+          "paper": "pmid-39394268",
+          "locator": "Fig. 1 and subcellular PKC experiments",
+          "context": "Live COS-7 cells and compartment-targeted sensor constructs",
+          "perturbation": "PMA, Gö6983, and phosphosite-mutant reporter",
+          "readout": "ExRai-CKAR2 fluorescence excitation ratio",
+          "finding": "Reporter phosphorylation was stimulus sensitive and depended on the substrate phosphosite."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "calcium-pkc",
+      "source": "calcium",
+      "target": "pkc",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Ca²⁺ supports membrane engagement and activity of conventional PKCs under appropriate lipid conditions.",
+      "evidence": [
+        {
+          "paper": "pmid-7358670",
+          "locator": "Results, phospholipid- and calcium-dependent kinase assay",
+          "context": "Reconstituted lipid-dependent protein kinase preparation",
+          "perturbation": "Diacylglycerol, phospholipid and calcium manipulations",
+          "readout": "Phosphate incorporation into protein substrate",
+          "finding": "DAG enhanced lipid-dependent kinase activity under the assay conditions."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "gq-p63rhogef",
+      "source": "gq",
+      "target": "p63rhogef",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Activated Gαq directly engages p63RhoGEF and stimulates its exchange activity.",
+      "evidence": [
+        {
+          "paper": "pmid-18096806",
+          "locator": "Results, ternary structure and RhoA exchange assay",
+          "context": "Purified activated Gαq, p63RhoGEF and RhoA",
+          "perturbation": "GEF effector interface perturbations",
+          "readout": "Crystal structure and nucleotide exchange",
+          "finding": "Gαq engages p63RhoGEF and potentiates GEF-mediated nucleotide exchange on RhoA."
+        },
+        {
+          "paper": "pmid-26435194",
+          "locator": "Results, receptor-evoked RhoA activation with DORA-RhoA",
+          "context": "Live cells expressing p63RhoGEF and DORA-RhoA",
+          "perturbation": "Gq-coupled receptor stimulation and GEF manipulations",
+          "readout": "RhoA FRET ratio",
+          "finding": "The study detected plasma-membrane-proximal RhoA activation downstream of Gq and p63RhoGEF."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "p63rhogef-rhoa",
+      "source": "p63rhogef",
+      "target": "rhoa",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "p63RhoGEF catalyzes nucleotide exchange on RhoA.",
+      "evidence": [
+        {
+          "paper": "pmid-18096806",
+          "locator": "Results, ternary structure and RhoA exchange assay",
+          "context": "Purified activated Gαq, p63RhoGEF and RhoA",
+          "perturbation": "GEF effector interface perturbations",
+          "readout": "Crystal structure and nucleotide exchange",
+          "finding": "Gαq engages p63RhoGEF and potentiates GEF-mediated nucleotide exchange on RhoA."
+        },
+        {
+          "paper": "pmid-26435194",
+          "locator": "Results, receptor-evoked RhoA activation with DORA-RhoA",
+          "context": "Live cells expressing p63RhoGEF and DORA-RhoA",
+          "perturbation": "Gq-coupled receptor stimulation and GEF manipulations",
+          "readout": "RhoA FRET ratio",
+          "finding": "The study detected plasma-membrane-proximal RhoA activation downstream of Gq and p63RhoGEF."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "rhoa-rock",
+      "source": "rhoa",
+      "target": "rock",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Activated Rho can bind and stimulate p160ROCK in biochemical assays.",
+      "evidence": [
+        {
+          "paper": "rock-1996",
+          "locator": "Results, Rho binding and stimulation of kinase activity",
+          "context": "Biochemical binding and p160ROCK kinase preparations",
+          "perturbation": "GTP-loaded Rho compared with other nucleotide or G protein conditions",
+          "readout": "Effector binding and kinase activity",
+          "finding": "Active Rho bound p160ROCK and enhanced activity in the assay."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "trkb-y816-site",
+      "source": "ntrk2",
+      "target": "trkb-y816",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "Phospho-TrkB Y816 is a measurable activated docking-site state in the BDNF-responsive TrkB system.",
+      "evidence": [
+        {
+          "paper": "pmid-34985962",
+          "locator": "Fig. 6C and phospho-TrkB immunostaining methods",
+          "context": "Mouse cortical dendritic compartments after striatal AAV manipulation",
+          "perturbation": "BDNF expression and huntingtin phosphomutant context",
+          "readout": "pY816 TrkB immunoreactivity near PSD95",
+          "finding": "TrkB pY816 immunoreactivity was detected near dendritic postsynaptic markers in the reported conditions."
+        },
+        {
+          "paper": "pmid-34985962",
+          "locator": "Fig. 7A–C",
+          "context": "Corticostriatal microfluidic cultures, cortical axons",
+          "perturbation": "BDNF stimulation of wild-type TrkB versus Y816F",
+          "readout": "GCaMP6f calcium-event frequency",
+          "finding": "BDNF increased axonal calcium events in wild-type but not Y816F-expressing axons."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "trkb-y816-plc-gamma",
+      "source": "trkb-y816",
+      "target": "plc-gamma",
+      "effect": "recruitment",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "The TrkB Y816 docking-site branch supports PLCγ1 signaling in the cited knock-in system.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        },
+        {
+          "paper": "pmid-26481038",
+          "locator": "Fig. 3C–D",
+          "context": "Mouse hippocampal preparations after systemic peptide infusion",
+          "perturbation": "Cell-permeant TrkB pY816 motif peptide versus scrambled peptide",
+          "readout": "PLCγ1 co-immunoprecipitation with TrkB and pY783 immunoreactivity",
+          "finding": "The pY816 peptide reduced the amount of PLCγ1 recovered with TrkB and reduced the PLCγ1 activation-site phosphorylation signal."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "plc-gamma-pip2",
+      "source": "plc-gamma",
+      "target": "pip2",
+      "effect": "depletion",
+      "tier": "assembled",
+      "status": "active",
+      "summary": "PLCγ1 catalysis supports PIP₂ consumption. The TrkB-to-product route combines docking evidence and independent lipase evidence.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        },
+        {
+          "paper": "pmid-31889510",
+          "locator": "Results, lipase activities of wild-type and regulatory mutant PLCγ1",
+          "context": "Purified PLCγ1 with lipid substrate assays",
+          "perturbation": "PLCγ1 regulatory mutations",
+          "readout": "Lipid substrate hydrolysis",
+          "finding": "Regulatory changes altered PLCγ1 lipase activity in the biochemical assay."
+        }
+      ],
+      "reason": "",
+      "assumption": "TrkB-recruited PLCγ1 becomes catalytically active and accesses the relevant membrane PIP₂ pool.",
+      "missing_link": "The cited TrkB docking-site experiment does not quantify PIP₂ consumption directly.",
+      "test": "Measure PIP₂ consumption after BDNF in wild-type and TrkB-Y816F cells, with PLCγ1 loss and rescue."
+    },
+    {
+      "id": "plc-gamma-ip3",
+      "source": "plc-gamma",
+      "target": "ip3",
+      "effect": "production",
+      "tier": "assembled",
+      "status": "active",
+      "summary": "PLCγ1 catalysis supports IP₃ formation. The TrkB-to-product route combines docking evidence and independent lipase evidence.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        },
+        {
+          "paper": "pmid-31889510",
+          "locator": "Results, lipase activities of wild-type and regulatory mutant PLCγ1",
+          "context": "Purified PLCγ1 with lipid substrate assays",
+          "perturbation": "PLCγ1 regulatory mutations",
+          "readout": "Lipid substrate hydrolysis",
+          "finding": "Regulatory changes altered PLCγ1 lipase activity in the biochemical assay."
+        }
+      ],
+      "reason": "",
+      "assumption": "TrkB-recruited PLCγ1 becomes catalytically active and accesses the relevant membrane PIP₂ pool.",
+      "missing_link": "The cited TrkB docking-site experiment does not quantify IP₃ formation directly.",
+      "test": "Measure IP₃ formation after BDNF in wild-type and TrkB-Y816F cells, with PLCγ1 loss and rescue."
+    },
+    {
+      "id": "plc-gamma-dag",
+      "source": "plc-gamma",
+      "target": "dag",
+      "effect": "production",
+      "tier": "assembled",
+      "status": "active",
+      "summary": "PLCγ1 catalysis supports DAG formation. The TrkB-to-product route combines docking evidence and independent lipase evidence.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        },
+        {
+          "paper": "pmid-31889510",
+          "locator": "Results, lipase activities of wild-type and regulatory mutant PLCγ1",
+          "context": "Purified PLCγ1 with lipid substrate assays",
+          "perturbation": "PLCγ1 regulatory mutations",
+          "readout": "Lipid substrate hydrolysis",
+          "finding": "Regulatory changes altered PLCγ1 lipase activity in the biochemical assay."
+        }
+      ],
+      "reason": "",
+      "assumption": "TrkB-recruited PLCγ1 becomes catalytically active and accesses the relevant membrane PIP₂ pool.",
+      "missing_link": "The cited TrkB docking-site experiment does not quantify DAG formation directly.",
+      "test": "Measure DAG formation after BDNF in wild-type and TrkB-Y816F cells, with PLCγ1 loss and rescue."
+    },
+    {
+      "id": "trkb-y515-site",
+      "source": "ntrk2",
+      "target": "trkb-y515",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "BDNF-dependent signaling uses the TrkB Y515 docking region in the tested cellular system.",
+      "evidence": [
+        {
+          "paper": "pmid-19359495",
+          "locator": "Fig. 2 and Results, selective TrkB signaling mutations",
+          "context": "Lentivirally transduced PC12 cells expressing TrkB constructs",
+          "perturbation": "BDNF and TrkB Y515-region mutations",
+          "readout": "Shc/FRS2 and downstream signaling immunoblots",
+          "finding": "The Shc/FRS2 docking-domain mutations reduced the ERK response in the tested constructs."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "trkb-y515-shc",
+      "source": "trkb-y515",
+      "target": "shc",
+      "effect": "recruitment",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "The Y515 docking region supports Shc and FRS2 signaling. The site mutant does not resolve which adaptor mediates an individual downstream response.",
+      "evidence": [
+        {
+          "paper": "pmid-19359495",
+          "locator": "Fig. 2 and Results, selective TrkB signaling mutations",
+          "context": "Lentivirally transduced PC12 cells expressing TrkB constructs",
+          "perturbation": "BDNF and TrkB Y515-region mutations",
+          "readout": "Shc/FRS2 and downstream signaling immunoblots",
+          "finding": "The Shc/FRS2 docking-domain mutations reduced the ERK response in the tested constructs."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "shc-erk",
+      "source": "shc",
+      "target": "erk",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "The TrkB Shc/FRS2 signaling module contributes to ERK output in the PC12 model. Intermediate kinases are collapsed here.",
+      "evidence": [
+        {
+          "paper": "pmid-19359495",
+          "locator": "Fig. 2 and Results, selective TrkB signaling mutations",
+          "context": "Lentivirally transduced PC12 cells expressing TrkB constructs",
+          "perturbation": "BDNF and TrkB Y515-region mutations",
+          "readout": "Shc/FRS2 and downstream signaling immunoblots",
+          "finding": "The Shc/FRS2 docking-domain mutations reduced the ERK response in the tested constructs."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    },
+    {
+      "id": "plc-gamma-creb",
+      "source": "plc-gamma",
+      "target": "creb",
+      "effect": "activation",
+      "tier": "demonstrated",
+      "status": "active",
+      "summary": "BDNF-induced CREB phosphorylation was sensitive to the TrkB PLCγ docking-site mutation in primary mouse neurons.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        }
+      ],
+      "reason": "",
+      "assumption": "",
+      "missing_link": "",
+      "test": ""
+    }
+  ],
+  "assays": [
+    {
+      "id": "gq-trupath",
+      "node": "gq",
+      "label": "TRUPATH Gαq heterotrimer",
+      "modality": "BRET",
+      "measures": "Agonist-dependent rearrangement of the tagged Gαqβγ complex.",
+      "validation": "Live heterologous cells, including 5-HT2A transducer profiling.",
+      "controls": "Use vehicle, receptor-negative cells, a reference agonist and verified sensor stoichiometry.",
+      "limit": "The BRET shift reflects distance and orientation and does not directly quantify Gαq-GTP.",
+      "evidence": [
+        {
+          "paper": "trupath-2020",
+          "locator": "Figs. 1–2, sensor design and transducer profiling",
+          "context": "Live cells expressing GPCRs and donor/acceptor-tagged heterotrimer subunits",
+          "perturbation": "Receptor agonist titrations and transducer-specific sensor configurations",
+          "readout": "Intermolecular BRET",
+          "finding": "Tagged heterotrimer conformational changes generated rapid transducer-resolved assay signals."
+        },
+        {
+          "paper": "pmid-40108183",
+          "locator": "Fig. 5 and Supplementary Fig. 13",
+          "context": "Heterologous 5-HT2A and tagged G protein assay",
+          "perturbation": "Psychedelic ligands and 25CN-NBOH",
+          "readout": "Gαq heterotrimer BRET rearrangement assay",
+          "finding": "Ligands produced distinct time- and concentration-dependent Gαq assay responses."
+        }
+      ]
+    },
+    {
+      "id": "gi-trupath",
+      "node": "gi",
+      "label": "TRUPATH Gi/o heterotrimer",
+      "modality": "BRET",
+      "measures": "Agonist-dependent rearrangement of a tagged Gi/o heterotrimer.",
+      "validation": "Live heterologous cells, using subtype-specific sensor constructs.",
+      "controls": "Use agonist and vehicle references, receptor-negative wells and matched subtype expression.",
+      "limit": "Sensor response is subtype- and expression-dependent and does not establish coupling in native tissue.",
+      "evidence": [
+        {
+          "paper": "trupath-2020",
+          "locator": "Figs. 1–2, sensor design and transducer profiling",
+          "context": "Live cells expressing GPCRs and donor/acceptor-tagged heterotrimer subunits",
+          "perturbation": "Receptor agonist titrations and transducer-specific sensor configurations",
+          "readout": "Intermolecular BRET",
+          "finding": "Tagged heterotrimer conformational changes generated rapid transducer-resolved assay signals."
+        }
+      ]
+    },
+    {
+      "id": "plcb-lipid-hydrolysis",
+      "node": "plc-beta",
+      "label": "Reconstituted PLCβ3 lipase activity",
+      "modality": "Biochemical",
+      "measures": "Hydrolysis of phosphoinositide substrate in the reconstituted membrane preparation.",
+      "validation": "Purified receptor, Gq and PLCβ3 preparations and cell-based phosphate accumulation.",
+      "controls": "Compare vehicle, basal activity and effector-interface mutations.",
+      "limit": "Cellular inositol phosphate accumulation can include other PLC isoforms.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        }
+      ]
+    },
+    {
+      "id": "pip2-lyn-plcr",
+      "node": "pip2",
+      "label": "Lyn-PlcR PIP₂ reporter",
+      "modality": "FRET",
+      "measures": "Conformation of a membrane-localized PH-domain probe responsive to available PIP₂.",
+      "validation": "Live COS-7 cells following acetylcholine stimulation.",
+      "controls": "Use a binding-deficient probe and a lipid-selective depletion or replenishment control.",
+      "limit": "PH-domain occupancy and localization depend on the probe and cellular lipid context.",
+      "evidence": [
+        {
+          "paper": "pmid-31855412",
+          "locator": "Fig. 1",
+          "context": "COS-7 cells expressing membrane-localized Lyn-PlcR",
+          "perturbation": "Acetylcholine stimulation",
+          "readout": "PIP₂-sensitive emission ratio",
+          "finding": "The reporter detected dynamic membrane phosphoinositide changes."
+        }
+      ]
+    },
+    {
+      "id": "ip3-iris1",
+      "node": "ip3",
+      "label": "IRIS-1 IP₃ indicator",
+      "modality": "FRET",
+      "measures": "Ligand-binding-dependent conformational response to cytosolic IP₃.",
+      "validation": "Live HeLa cells during histamine-induced calcium oscillations.",
+      "controls": "Calibrate IP₃ response and verify the binding-dependent signal with an appropriate control probe.",
+      "limit": "Expression, buffering, and affinity can affect quantitative recovery of local IP₃.",
+      "evidence": [
+        {
+          "paper": "pmid-16754959",
+          "locator": "Figs. 1–4",
+          "context": "Cytosolic FRET imaging in HeLa cells",
+          "perturbation": "Histamine stimulation and IP₃ calibration",
+          "readout": "IRIS-1 ratio and co-measured cytosolic Ca²⁺",
+          "finding": "Histamine increased cytosolic IP₃ before the first calcium rise in the tested cells."
+        }
+      ]
+    },
+    {
+      "id": "ip3r-nuclear-patch",
+      "node": "ip3r",
+      "label": "Nuclear-envelope single-channel recording",
+      "modality": "Electrophysiology",
+      "measures": "Single-channel opening and closing events in an IP₃-sensitive membrane preparation.",
+      "validation": "Isolated Xenopus oocyte nuclei and native outer nuclear membrane.",
+      "controls": "Compare IP₃ concentrations and control ionic conditions at the cytosolic face.",
+      "limit": "Isolated-membrane behavior cannot by itself identify the channel source of a cytosolic transient in intact cells.",
+      "evidence": [
+        {
+          "paper": "pmid-9154905",
+          "locator": "Results, single-channel IP₃ sensitivity and kinetics",
+          "context": "Isolated Xenopus oocyte nuclei, outer nuclear membrane",
+          "perturbation": "Varying cytoplasmic IP₃ conditions",
+          "readout": "Single-channel patch-clamp current",
+          "finding": "IP₃-sensitive channels opened in the native nuclear envelope preparation."
+        }
+      ]
+    },
+    {
+      "id": "calcium-jgcamp8",
+      "node": "calcium",
+      "label": "jGCaMP8 calcium indicator",
+      "modality": "Single fluorophore",
+      "measures": "Ca²⁺-dependent fluorescence of a genetically encoded single fluorescent protein reporter.",
+      "validation": "Neurons in culture and in vivo in the primary validation.",
+      "controls": "Use unstimulated baseline, a positive calcium or depolarization control, and targeted perturbations for source attribution.",
+      "limit": "Fluorescence depends on indicator expression and kinetics. A cytosolic trace does not identify the Ca²⁺ source.",
+      "evidence": [
+        {
+          "paper": "pmid-36922596",
+          "locator": "Figs. 1 and 3",
+          "context": "Engineered neurons and mouse visual cortex",
+          "perturbation": "Action potentials and visual stimulation",
+          "readout": "GCaMP fluorescence and electrophysiology",
+          "finding": "jGCaMP8 variants tracked rapid changes with distinct kinetic properties."
+        }
+      ]
+    },
+    {
+      "id": "calcium-trkb-gcamp6f",
+      "node": "calcium",
+      "label": "GCaMP6f in TrkB-expressing axons",
+      "modality": "Single fluorophore",
+      "measures": "Local calcium-event frequency and fluorescence amplitude.",
+      "validation": "Cortical axons in an in vitro corticostriatal microfluidic culture.",
+      "controls": "Compare wild-type TrkB with Y816F and analyze an unstimulated baseline.",
+      "limit": "Changes in event frequency and amplitude can have different interpretations and neither identifies a channel without a channel perturbation.",
+      "evidence": [
+        {
+          "paper": "pmid-34985962",
+          "locator": "Fig. 7A–C",
+          "context": "Corticostriatal microfluidic cultures, cortical axons",
+          "perturbation": "BDNF stimulation of wild-type TrkB versus Y816F",
+          "readout": "GCaMP6f calcium-event frequency",
+          "finding": "BDNF increased axonal calcium events in wild-type but not Y816F-expressing axons."
+        }
+      ]
+    },
+    {
+      "id": "dag-digda",
+      "node": "dag",
+      "label": "Digda-derived DAG reporter",
+      "modality": "FRET",
+      "measures": "DAG-sensitive FRET change in a targeted membrane reporter.",
+      "validation": "Live-cell measurements with plasma membrane and lysosomal reporter variants.",
+      "controls": "Confirm localization and use a binding-deficient reporter or selective lipid perturbation.",
+      "limit": "Reports available lipid in the assayed membrane pool. It does not specify the enzyme generating DAG.",
+      "evidence": [
+        {
+          "paper": "pmid-39394268",
+          "locator": "Results, lysosomal DAG experiments and DAG biosensor methods",
+          "context": "Live cultured cells with membrane-targeted DAG FRET reporters",
+          "perturbation": "Receptor stimulation",
+          "readout": "DAG-sensitive Digda-derived FRET",
+          "finding": "The probe resolved stimulus-associated DAG dynamics at the membranes assayed."
+        }
+      ]
+    },
+    {
+      "id": "pkc-exrai-ckar2",
+      "node": "pkc",
+      "label": "ExRai-CKAR2",
+      "modality": "Single fluorophore",
+      "measures": "Excitation-ratiometric signal from a phosphorylatable PKC substrate.",
+      "validation": "Live COS-7 cells and reporters targeted to intracellular membranes.",
+      "controls": "Use substrate-site mutant, PKC inhibitor and PMA positive control.",
+      "limit": "Signal reflects the net kinase/phosphatase balance and does not independently identify a PKC isoform.",
+      "evidence": [
+        {
+          "paper": "pmid-39394268",
+          "locator": "Fig. 1 and subcellular PKC experiments",
+          "context": "Live COS-7 cells and compartment-targeted sensor constructs",
+          "perturbation": "PMA, Gö6983, and phosphosite-mutant reporter",
+          "readout": "ExRai-CKAR2 fluorescence excitation ratio",
+          "finding": "Reporter phosphorylation was stimulus sensitive and depended on the substrate phosphosite."
+        }
+      ]
+    },
+    {
+      "id": "pkc-ckar3",
+      "node": "pkc",
+      "label": "CKAR3 fluorescence-lifetime reporter",
+      "modality": "FRET",
+      "measures": "Change in donor lifetime associated with PKC substrate phosphorylation.",
+      "validation": "PKC imaging in cultured cells and in vivo with a fluorescence-lifetime readout.",
+      "controls": "Use inactive phosphosite reporter and inhibitor reversal.",
+      "limit": "Requires FLIM acquisition. The reporter integrates kinase and phosphatase activities.",
+      "evidence": [
+        {
+          "paper": "ckar3-2025",
+          "locator": "Results, CKAR3 characterization and in vivo imaging",
+          "context": "Cultured cells and in vivo neuronal imaging",
+          "perturbation": "Pharmacological PKC activation and inhibition",
+          "readout": "Reporter fluorescence lifetime",
+          "finding": "The study validated a PKC substrate phosphorylation sensor compatible with live-cell fluorescence lifetime measurements."
+        }
+      ]
+    },
+    {
+      "id": "kcnq-patch",
+      "node": "kcnq",
+      "label": "KCNQ2/3 whole-cell patch clamp",
+      "modality": "Electrophysiology",
+      "measures": "Channel current under voltage control.",
+      "validation": "Heterologous KCNQ2/3 and native M-current experiments.",
+      "controls": "Control holding potential and use channel blockade or lipid perturbation to attribute current.",
+      "limit": "A current change can have multiple causes. Parallel lipid measurement helps establish PIP₂ dependence.",
+      "evidence": [
+        {
+          "paper": "pmid-12670425",
+          "locator": "Results, effects of PIP₂ addition and hydrolysis on channel activity",
+          "context": "Native M channels and recombinant KCNQ channels",
+          "perturbation": "Lipid addition or receptor-driven lipid hydrolysis",
+          "readout": "Patch-clamp potassium current",
+          "finding": "PIP₂ supported channel activity and receptor-driven depletion reduced current."
+        },
+        {
+          "paper": "pmid-20100891",
+          "locator": "Results, kinetics of PIP₂ depletion and M-current suppression",
+          "context": "Cells expressing KCNQ2/3, a PIP₂ probe and a voltage-sensitive phosphatase",
+          "perturbation": "Voltage-dependent phosphatase activation or muscarinic stimulation",
+          "readout": "Membrane lipid reporter and patch-clamp M current",
+          "finding": "Selective lipid depletion lowered M current and the recovery followed PIP₂ resynthesis."
+        }
+      ]
+    },
+    {
+      "id": "gef-exchange",
+      "node": "p63rhogef",
+      "label": "Reconstituted RhoA nucleotide exchange",
+      "modality": "Biochemical",
+      "measures": "RhoA nucleotide exchange rate in the presence of purified p63RhoGEF.",
+      "validation": "Purified Gαq, p63RhoGEF and RhoA.",
+      "controls": "Compare GEF alone, activated Gαq, and interface mutations.",
+      "limit": "Bulk purified system omits cellular localization and competing GEFs and GAPs.",
+      "evidence": [
+        {
+          "paper": "pmid-18096806",
+          "locator": "Results, ternary structure and RhoA exchange assay",
+          "context": "Purified activated Gαq, p63RhoGEF and RhoA",
+          "perturbation": "GEF effector interface perturbations",
+          "readout": "Crystal structure and nucleotide exchange",
+          "finding": "Gαq engages p63RhoGEF and potentiates GEF-mediated nucleotide exchange on RhoA."
+        }
+      ]
+    },
+    {
+      "id": "rhoa-dora",
+      "node": "rhoa",
+      "label": "DORA-RhoA",
+      "modality": "FRET",
+      "measures": "Reporter RhoA GTP loading through intramolecular effector engagement.",
+      "validation": "Live cells probing Gq/p63RhoGEF signaling and membrane-restricted GEF activity.",
+      "controls": "Use baseline, GEF perturbation and expression-matched reporter controls.",
+      "limit": "Reporter activation alone cannot distinguish upstream GEFs or endogenous RhoA stoichiometry.",
+      "evidence": [
+        {
+          "paper": "pmid-26435194",
+          "locator": "Results, receptor-evoked RhoA activation with DORA-RhoA",
+          "context": "Live cells expressing p63RhoGEF and DORA-RhoA",
+          "perturbation": "Gq-coupled receptor stimulation and GEF manipulations",
+          "readout": "RhoA FRET ratio",
+          "finding": "The study detected plasma-membrane-proximal RhoA activation downstream of Gq and p63RhoGEF."
+        }
+      ]
+    },
+    {
+      "id": "trkb-py816-blot",
+      "node": "trkb-y816",
+      "label": "TrkB pY816 phospho-immunodetection",
+      "modality": "Biochemical",
+      "measures": "TrkB phosphorylation at the PLCγ docking site.",
+      "validation": "Phospho-site immunodetection in the BDNF-responsive TrkB model.",
+      "controls": "Use total TrkB, vehicle and a Y816F specificity control.",
+      "limit": "Docking-site phosphorylation does not measure PLCγ1 catalysis.",
+      "evidence": [
+        {
+          "paper": "pmid-34985962",
+          "locator": "Fig. 6C and phospho-TrkB immunostaining methods",
+          "context": "Mouse cortical dendritic compartments after striatal AAV manipulation",
+          "perturbation": "BDNF expression and huntingtin phosphomutant context",
+          "readout": "pY816 TrkB immunoreactivity near PSD95",
+          "finding": "TrkB pY816 immunoreactivity was detected near dendritic postsynaptic markers in the reported conditions."
+        }
+      ]
+    },
+    {
+      "id": "plcg-lipid-hydrolysis",
+      "node": "plc-gamma",
+      "label": "PLCγ1 lipid hydrolysis",
+      "modality": "Biochemical",
+      "measures": "Catalytic lipase activity on a supplied substrate.",
+      "validation": "Purified PLCγ1 structural and functional validation.",
+      "controls": "Compare wild type, autoinhibitory mutants and basal hydrolysis.",
+      "limit": "A reconstituted rate does not demonstrate TrkB-specific activation in intact cells.",
+      "evidence": [
+        {
+          "paper": "pmid-31889510",
+          "locator": "Results, lipase activities of wild-type and regulatory mutant PLCγ1",
+          "context": "Purified PLCγ1 with lipid substrate assays",
+          "perturbation": "PLCγ1 regulatory mutations",
+          "readout": "Lipid substrate hydrolysis",
+          "finding": "Regulatory changes altered PLCγ1 lipase activity in the biochemical assay."
+        }
+      ]
+    },
+    {
+      "id": "shc-phosphoblot",
+      "node": "shc",
+      "label": "Shc/FRS2 activation immunoblot",
+      "modality": "Biochemical",
+      "measures": "Adaptor phosphorylation and recruitment-associated activation markers.",
+      "validation": "BDNF-stimulated transduced PC12 cells.",
+      "controls": "Compare wild-type TrkB with a docking-region mutant and assay both adaptors separately.",
+      "limit": "The docking-region mutation alters more than one adaptor branch.",
+      "evidence": [
+        {
+          "paper": "pmid-19359495",
+          "locator": "Fig. 2 and Results, selective TrkB signaling mutations",
+          "context": "Lentivirally transduced PC12 cells expressing TrkB constructs",
+          "perturbation": "BDNF and TrkB Y515-region mutations",
+          "readout": "Shc/FRS2 and downstream signaling immunoblots",
+          "finding": "The Shc/FRS2 docking-domain mutations reduced the ERK response in the tested constructs."
+        }
+      ]
+    },
+    {
+      "id": "erk-ekar",
+      "node": "erk",
+      "label": "EKAR",
+      "modality": "FRET",
+      "measures": "ERK substrate phosphorylation with a genetically encoded reporter.",
+      "validation": "Live cultured cells and dendritic or nuclear measurements in hippocampal slices.",
+      "controls": "Use a nonphosphorylatable reporter, MEK pathway inhibition and localization controls.",
+      "limit": "Net reporter phosphorylation can depend on phosphatases, docking and compartment.",
+      "evidence": [
+        {
+          "paper": "pmid-19033456",
+          "locator": "Figs. 1–3 and 5",
+          "context": "Cultured cells and hippocampal pyramidal neurons in slices",
+          "perturbation": "Growth factor or patterned neuronal stimulation and pathway inhibitors",
+          "readout": "EKAR emission ratio or donor fluorescence lifetime",
+          "finding": "EKAR reported rapid ERK activity in multiple compartments."
+        }
+      ]
+    },
+    {
+      "id": "creb-pcreb",
+      "node": "creb",
+      "label": "Phospho-CREB immunodetection",
+      "modality": "Biochemical",
+      "measures": "CREB phosphorylation in a time-resolved endpoint sample.",
+      "validation": "BDNF-stimulated primary neurons from TrkB docking-site knock-in mice.",
+      "controls": "Normalize to total CREB and compare BDNF with vehicle and docking-site perturbation.",
+      "limit": "CREB phosphorylation can integrate several pathways and does not by itself establish transcriptional activity.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        }
+      ]
+    },
+    {
+      "id": "plcg-trkb-coip",
+      "node": "plc-gamma",
+      "label": "TrkB–PLCγ1 co-immunoprecipitation and PLCγ1 pY783",
+      "modality": "Biochemical",
+      "measures": "Receptor-associated PLCγ1 and phosphorylation at a PLCγ1 activation site.",
+      "validation": "Hippocampal homogenates from mouse experiments with a TrkB motif peptide.",
+      "controls": "Compare scrambled peptide, total proteins, input, and immunoprecipitation specificity.",
+      "limit": "A co-immunoprecipitate reports association under extraction conditions. pY783 is an activation marker, while lipid hydrolysis is a separate readout.",
+      "evidence": [
+        {
+          "paper": "pmid-26481038",
+          "locator": "Fig. 3C–D",
+          "context": "Mouse hippocampal preparations after systemic peptide infusion",
+          "perturbation": "Cell-permeant TrkB pY816 motif peptide versus scrambled peptide",
+          "readout": "PLCγ1 co-immunoprecipitation with TrkB and pY783 immunoreactivity",
+          "finding": "The pY816 peptide reduced the amount of PLCγ1 recovered with TrkB and reduced the PLCγ1 activation-site phosphorylation signal."
+        }
+      ]
+    }
+  ],
+  "responses": [
+    {
+      "id": "trkb-y816-ltp",
+      "node": "trkb-y816",
+      "level": "physiological",
+      "summary": "Hippocampal LTP was impaired in the TrkB PLCγ-site knock-in mice. The Shc-site mutant retained LTP in the reported paradigm.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        }
+      ]
+    },
+    {
+      "id": "calcium-bdnf-axon",
+      "node": "calcium",
+      "level": "cellular",
+      "summary": "BDNF increased the frequency of calcium events in cortical axons expressing wild-type TrkB. The Y816F mutant lacked that increase in this culture.",
+      "evidence": [
+        {
+          "paper": "pmid-34985962",
+          "locator": "Fig. 7A–C",
+          "context": "Corticostriatal microfluidic cultures, cortical axons",
+          "perturbation": "BDNF stimulation of wild-type TrkB versus Y816F",
+          "readout": "GCaMP6f calcium-event frequency",
+          "finding": "BDNF increased axonal calcium events in wild-type but not Y816F-expressing axons."
+        }
+      ]
+    },
+    {
+      "id": "ip3-oscillations",
+      "node": "ip3",
+      "level": "cellular",
+      "summary": "In histamine-stimulated HeLa cells, cytosolic IP₃ rose before the first Ca²⁺ spike and often accumulated without matching every subsequent spike.",
+      "evidence": [
+        {
+          "paper": "pmid-16754959",
+          "locator": "Figs. 1–4",
+          "context": "Cytosolic FRET imaging in HeLa cells",
+          "perturbation": "Histamine stimulation and IP₃ calibration",
+          "readout": "IRIS-1 ratio and co-measured cytosolic Ca²⁺",
+          "finding": "Histamine increased cytosolic IP₃ before the first calcium rise in the tested cells."
+        }
+      ]
+    },
+    {
+      "id": "kcnq-current-suppression",
+      "node": "kcnq",
+      "level": "cellular",
+      "summary": "Membrane PIP₂ depletion reduced the M-type potassium current under the cited electrophysiological conditions.",
+      "evidence": [
+        {
+          "paper": "pmid-20100891",
+          "locator": "Results, kinetics of PIP₂ depletion and M-current suppression",
+          "context": "Cells expressing KCNQ2/3, a PIP₂ probe and a voltage-sensitive phosphatase",
+          "perturbation": "Voltage-dependent phosphatase activation or muscarinic stimulation",
+          "readout": "Membrane lipid reporter and patch-clamp M current",
+          "finding": "Selective lipid depletion lowered M current and the recovery followed PIP₂ resynthesis."
+        }
+      ]
+    },
+    {
+      "id": "rhoa-leading-edge",
+      "node": "rhoa",
+      "level": "cellular",
+      "summary": "RhoA activity showed spatial patterning at protruding regions in migrating cells.",
+      "evidence": [
+        {
+          "paper": "pertz-2006",
+          "locator": "Figs. 1 and 2",
+          "context": "Migrating cultured cells expressing the RhoA FRET probe",
+          "perturbation": "Observation during spontaneous cell protrusion and migration",
+          "readout": "Spatial RhoA biosensor ratio",
+          "finding": "The study mapped dynamic RhoA activity at the leading edge and other subcellular regions."
+        }
+      ]
+    },
+    {
+      "id": "rhoa-actin",
+      "node": "rhoa",
+      "level": "cellular",
+      "summary": "Plasma-membrane-restricted RhoGEF activity drove actin polymerization in the live-cell perturbation model.",
+      "evidence": [
+        {
+          "paper": "pmid-26435194",
+          "locator": "Results, receptor-evoked RhoA activation with DORA-RhoA",
+          "context": "Live cells expressing p63RhoGEF and DORA-RhoA",
+          "perturbation": "Gq-coupled receptor stimulation and GEF manipulations",
+          "readout": "RhoA FRET ratio",
+          "finding": "The study detected plasma-membrane-proximal RhoA activation downstream of Gq and p63RhoGEF."
+        }
+      ]
+    },
+    {
+      "id": "erk-regeneration",
+      "node": "erk",
+      "level": "physiological",
+      "summary": "Corticospinal axon regeneration tracked with ERK-competent TrkB constructs in a rat axotomy and BDNF graft model.",
+      "evidence": [
+        {
+          "paper": "pmid-19359495",
+          "locator": "Results, corticospinal regeneration after lentiviral TrkB expression",
+          "context": "Rat corticospinal axotomy and BDNF graft model",
+          "perturbation": "Wild-type or signaling-selective TrkB lentiviral constructs",
+          "readout": "NF200-positive corticospinal axon penetration",
+          "finding": "Regeneration in this engineered model tracked with the ERK-competent TrkB constructs."
+        }
+      ]
+    },
+    {
+      "id": "creb-bdnf",
+      "node": "creb",
+      "level": "cellular",
+      "summary": "BDNF-induced CREB phosphorylation was impaired in primary neurons from TrkB PLCγ docking-site mutant mice.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        }
+      ]
+    }
+  ],
+  "coverage": [
+    {
+      "id": "gq-pilot",
+      "scope": "Gq effector branches",
+      "status": "reviewed",
+      "summary": "Pilot covers PLCβ3, IP₃/Ca²⁺, DAG/PKC, PIP₂/Kv7 and p63RhoGEF/RhoA/ROCK.",
+      "evidence": [
+        {
+          "paper": "pmid-20966218",
+          "locator": "Fig. 2D–E and supplementary Fig. S5",
+          "context": "Cell assay and purified P2Y1 receptor, heterotrimeric Gq and PLCβ3 reconstitution",
+          "perturbation": "2MeSADP and PLCβ3 interface mutations",
+          "readout": "Inositol phosphate accumulation, binding and lipase activity",
+          "finding": "Interface mutants weakened the Gq response with retained basal lipase activity in purified preparations."
+        },
+        {
+          "paper": "pmid-18096806",
+          "locator": "Results, ternary structure and RhoA exchange assay",
+          "context": "Purified activated Gαq, p63RhoGEF and RhoA",
+          "perturbation": "GEF effector interface perturbations",
+          "readout": "Crystal structure and nucleotide exchange",
+          "finding": "Gαq engages p63RhoGEF and potentiates GEF-mediated nucleotide exchange on RhoA."
+        }
+      ]
+    },
+    {
+      "id": "trkb-pilot",
+      "scope": "TrkB docking-site branches",
+      "status": "reviewed",
+      "summary": "Pilot covers PLCγ and Shc/FRS2 signaling. Other TrkB branches and receptor isoforms remain pending.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        },
+        {
+          "paper": "pmid-19359495",
+          "locator": "Fig. 2 and Results, selective TrkB signaling mutations",
+          "context": "Lentivirally transduced PC12 cells expressing TrkB constructs",
+          "perturbation": "BDNF and TrkB Y515-region mutations",
+          "readout": "Shc/FRS2 and downstream signaling immunoblots",
+          "finding": "The Shc/FRS2 docking-domain mutations reduced the ERK response in the tested constructs."
+        }
+      ]
+    },
+    {
+      "id": "htr2a-entry",
+      "scope": "5-HT2A transducer entry points",
+      "status": "reviewed",
+      "summary": "Pilot captures context-dependent Gq and Gi coupling. Other transducer branches are pending.",
+      "evidence": [
+        {
+          "paper": "pmid-40108183",
+          "locator": "Fig. 5 and Supplementary Fig. 13",
+          "context": "Heterologous 5-HT2A and tagged G protein assay",
+          "perturbation": "Psychedelic ligands and 25CN-NBOH",
+          "readout": "Gαq heterotrimer BRET rearrangement assay",
+          "finding": "Ligands produced distinct time- and concentration-dependent Gαq assay responses."
+        },
+        {
+          "paper": "pmid-41606342",
+          "locator": "Main Results, pharmacological investigation of biased G protein activation",
+          "context": "Human 5-HT2A studied with engineered G protein assays",
+          "perturbation": "Tested hallucinogenic and nonhallucinogenic agonists",
+          "readout": "Comparative Gq and Gi pathway readouts",
+          "finding": "Some ligands engaged Gi in the tested setting and coupling depended on ligand."
+        }
+      ]
+    },
+    {
+      "id": "htr2a-other-branches",
+      "scope": "Other 5-HT2A transducer branches",
+      "status": "pending",
+      "summary": "Arrestin, alternative compartments and receptor crosstalk await expanded curation.",
+      "evidence": []
+    },
+    {
+      "id": "trkb-other-branches",
+      "scope": "Other TrkB branches",
+      "status": "pending",
+      "summary": "PI3K, alternate adaptor branches and truncated isoforms await expanded curation.",
+      "evidence": []
+    },
+    {
+      "id": "trkb-plc-mutant-mapk",
+      "scope": "Effect of TrkB PLCγ-site mutation on BDNF-driven MAP kinase activation",
+      "status": "no_effect",
+      "summary": "Primary neurons from the PLCγ-site mutant retained BDNF-induced MAP kinase activation in this experiment.",
+      "evidence": [
+        {
+          "paper": "pmid-12367511",
+          "locator": "Results, TrkB docking-site mutants and BDNF responses",
+          "context": "Knock-in mice and primary mouse neurons",
+          "perturbation": "TrkB PLCγ-site or Shc-site mutation, BDNF stimulation",
+          "readout": "Biochemical signaling readouts and hippocampal LTP",
+          "finding": "PLCγ-site disruption selectively impaired hippocampal LTP and BDNF-induced CREB phosphorylation while MAP kinase activation was retained."
+        }
+      ]
+    }
+  ]
+}

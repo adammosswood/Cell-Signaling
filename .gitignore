@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+/dist/
+/.atlas-local/
+.DS_Store

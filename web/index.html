@@ -1,0 +1,49 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Cell Signaling Atlas</title>
+<style>/* ATLAS_CSS */</style>
+</head>
+<body>
+<a class="skip" href="#explore">Skip to explorer</a>
+<header>
+  <p class="kicker">Human receptor signaling</p>
+  <h1>Cell Signaling Atlas</h1>
+  <p>Follow a signal from receptor to molecular output. Select a junction to inspect the evidence and measurement options.</p>
+</header>
+<main id="explore">
+  <form id="filters" aria-label="Atlas filters">
+    <label>Find a receptor or junction<input id="search" type="search" autocomplete="off" placeholder="5-HT2A, TrkB, RhoA"></label>
+    <label>Starting point<select id="start"></select></label>
+    <label>Evidence<select id="tier">
+      <option value="">All evidence</option><option value="demonstrated">Demonstrated steps</option>
+      <option value="assembled">Cross-study joins</option><option value="hypothesis">Hypotheses</option>
+    </select></label>
+    <label>Compartment<select id="compartment"><option value="">All compartments</option></select></label>
+    <label>Measurement<select id="modality"><option value="">All measurements</option></select></label>
+  </form>
+  <p id="matches" role="status"></p>
+  <div class="explorer">
+    <section class="panel" aria-labelledby="diagram-title">
+      <h2 id="diagram-title">Pathways</h2>
+      <p class="legend"><span class="solid">Demonstrated</span><span class="dashed">Across studies</span><span class="dotted">Hypothesis</span></p>
+      <div id="diagram">
+        <svg id="wires" aria-hidden="true"></svg>
+        <div id="levels"></div>
+      </div>
+      <div id="route-details"></div>
+    </section>
+    <aside id="details" class="panel" aria-labelledby="detail-title" aria-live="polite"></aside>
+  </div>
+  <section class="panel secondary" aria-labelledby="history-title">
+    <h2 id="history-title">Coverage and revision history</h2>
+    <div id="history"></div>
+  </section>
+</main>
+<noscript>The explorer needs JavaScript to render the bundled pathway data.</noscript>
+<script type="application/json" id="atlas-data"><!-- ATLAS_DATA --></script>
+<script>/* ATLAS_JS */</script>
+</body>
+</html>
